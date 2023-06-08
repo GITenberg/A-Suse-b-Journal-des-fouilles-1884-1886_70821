@@ -1,0 +1,36 @@
+_repo: A-Suse-b-Journal-des-fouilles-1884-1886_70821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dieulafoy, Jane
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '5280'
+    url: http://www.gutenberg.org/2009/agents/5280
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jane_Dieulafoy
+    - https://fr.wikipedia.org/wiki/Jane_Dieulafoy
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70821'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6212482t
+pgterms:marc905: 20201101071845dieulafoy
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bHachette, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- Description and travel'
+- !lcsh 'Susa (Extinct city) -- Antiquities'
+- !lcsh 'Archaeology -- Iran'
+- !lcc 'DS'
+- GITenberg
+title: 'A Suse : $b Journal des fouilles, 1884-1886'
+url: http://www.gutenberg.org/ebooks/70821
