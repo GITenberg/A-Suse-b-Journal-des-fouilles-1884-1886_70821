@@ -1,5 +1,8 @@
 _repo: A-Suse-b-Journal-des-fouilles-1884-1886_70821
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70821-h/images/cover.jpg
 creator:
   author:
     agent_name: Dieulafoy, Jane
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jane_Dieulafoy
     - https://fr.wikipedia.org/wiki/Jane_Dieulafoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70821#A-Suse-b-Journal-des-fouilles-1884-1886
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70821'
